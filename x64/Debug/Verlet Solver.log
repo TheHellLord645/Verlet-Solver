@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Shejin\Projects\C++\Verlet Solver\src\main.cpp(71,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Shejin\Projects\C++\Verlet Solver\src\main.cpp(71,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Verlet Solver.vcxproj -> D:\Shejin\Projects\C++\Verlet Solver\x64\Debug\Verlet Solver.exe

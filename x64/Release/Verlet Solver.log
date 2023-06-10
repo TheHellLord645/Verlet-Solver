@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\Shejin\Projects\C++\Verlet Solver\src\main.cpp(71,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Shejin\Projects\C++\Verlet Solver\src\main.cpp(71,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  vector2.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Verlet Solver.vcxproj -> D:\Shejin\Projects\C++\Verlet Solver\x64\Release\Verlet Solver.exe
